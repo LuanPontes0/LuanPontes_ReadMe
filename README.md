@@ -1,29 +1,26 @@
+# Hey, I'm Juan! 👋
 
-# Olá mundo, eu sou o Luan! 👋
+I'm a Software Developer from Brazil with a background in web development and information security.
 
+I enjoy building things, exploring how systems work, and understanding how they can be made more secure.
 
-## 🚀 Sobre mim
-Sou desenvolvedor Front End com experiência em React, React Native, Bootstrap 5, Java, SQL, entre outras tecnologias. Decidi me aventurar na programação por ela me oferecer o poder de criar soluções inovadoras, onde o único limite é o que consigo encontrar no StackOverflow. 😄
+### Focus Areas
+- Web Development
+- Offensive Security
+- Web Application Pentesting
+- Application Security
 
+### Technologies
+- **Languages:** JavaScript
+- **Frontend:** React, Next.js
+- **Backend:** Node.js
+- **Security:** Burp Suite, OWASP, Web Pentesting
 
+### Currently
+- Improving my offensive security skills.
+- Exploring web vulnerabilities and attack techniques.
+- Building projects and experimenting with new technologies.
 
-## 🛠 Habilidades
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,react,java,mysql,vscode)](https://skillicons.dev)
+---
 
-Ao longo dos anos, desenvolvi projetos acadêmicos e alguns freelas para a empresa em que trabalho, utilizando as tecnologias mencionadas acima. Você pode conferir alguns desses projetos aqui no meu GitHub.
-
-![Dinossaur game](https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif)
-## 🔗 Links
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)]()
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luan-pontes-081009227)
-[![instagram](https://img.shields.io/badge/instagram-8a3ab9?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/luanpontes__)
-
-
-## Contato
-
-Gostou ? Entre em contato comigo através dos links acima ou através do e-mail luan.pontescabral@gmail.com
-
-
-
-
-![Joia](https://i.gifer.com/7Onx.gif)
+*"Understand how things work. Learn how to break them. Build them better."*
