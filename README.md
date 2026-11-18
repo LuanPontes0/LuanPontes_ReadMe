@@ -1,4 +1,4 @@
-# Hey, I'm Juan! 👋
+# Hey, I'm Luan! 👋
 
 I'm a Software Developer from Brazil with a background in web development and information security.
 
